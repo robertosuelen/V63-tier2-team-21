@@ -38,4 +38,4 @@ coding!
 - **Pauline Christelle Nemb- Scrum Master:** [GitHub](https://github.com/pchristelle) / [LinkedIn](https://www.linkedin.com/in/christelle-nemb/)
 - **Henrietta Dare - Developer:** [GitHub](https://github.com/Henrietta-Dare) / [LinkedIn](https://www.linkedin.com/in/henrietta-dare/)
 - **Sandra Barbosa - Developer:** [GitHub](https://github.com/sandra395) / [LinkedIn](https://www.linkedin.com/in/sandragbarbosa)
-- **Nandhini - Developer:** GitHub / LinkedIn — *Pending*
+- **Nandhini Ravichandran - Developer:** [GitHub](https://github.com/Nandhini0123) / [LinkedIn](https://www.linkedin.com/in/nan-ravi/)

@@ -34,8 +34,8 @@ Everyone on your team should add their name along with a link to their GitHub
 your repo access and to practice PR'ing with your team *before* you start
 coding!
 
-- **Suelen Silva:** [GitHub](https://github.com/robertosuelen) / [LinkedIn](https://linkedin.com/in/suelen-silvapm)
-- **Henrietta Dare:** [GitHub](https://github.com/Henrietta-Dare) / [LinkedIn](https://www.linkedin.com/in/henrietta-dare/)
-- **Christelle Nemb:** [GitHub](https://github.com/pchristelle) / [LinkedIn](https://www.linkedin.com/in/christelle-nemb/)
-- **Sandra Barbosa:** [GitHub](https://github.com/sandra395) / [LinkedIn](https://www.linkedin.com/in/sandragbarbosa)
-- **Nandhini:** GitHub / LinkedIn — *Pending*
+- **Suelen Silva - Product Owner:** [GitHub](https://github.com/robertosuelen) / [LinkedIn](https://linkedin.com/in/suelen-silvapm)
+- - **Pauline Christelle Nemb- Scrum Master:** [GitHub](https://github.com/pchristelle) / [LinkedIn](https://www.linkedin.com/in/christelle-nemb/)
+- **Henrietta Dare - Developer:** [GitHub](https://github.com/Henrietta-Dare) / [LinkedIn](https://www.linkedin.com/in/henrietta-dare/)
+- **Sandra Barbosa - Developer:** [GitHub](https://github.com/sandra395) / [LinkedIn](https://www.linkedin.com/in/sandragbarbosa)
+- **Nandhini - Developer:** GitHub / LinkedIn — *Pending*
